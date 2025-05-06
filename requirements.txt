@@ -1,0 +1,7 @@
+notebook
+altair==5.5.0
+matplotlib==3.10.1
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.24.1
+seaborn==0.13.2
