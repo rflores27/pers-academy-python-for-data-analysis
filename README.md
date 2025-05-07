@@ -8,8 +8,9 @@ This two-day training provides a practical introduction to Python and its core c
 
 ### 1. Open the Codespace
 
-1. Click the green **‘Code’** button on the GitHub repository page  
-2. Select **‘Codespaces’** → **‘Create codespace on main’**
+1. Log in to Github - create one if you haven't already
+2. Click the green **‘Code’** button on the GitHub repository page  
+3. Select **‘Codespaces’** → **‘Create codespace on main’**
 
 ![Create codespace on main](images/open-codespace.gif)
 
