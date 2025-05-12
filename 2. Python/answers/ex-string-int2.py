@@ -1,6 +1,1 @@
-
-print(
-    start_sentence, 
-    str(first_num) * 3 + str(last_num),
-    end_sentence.lower()
-)
+start_sentence.title() + ' is ' + str(first_num)*3 + str(int(last_num)) + '. ' + end_sentence.capitalize()

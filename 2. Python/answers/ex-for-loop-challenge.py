@@ -1,4 +1,4 @@
-out = ''
+pattern = ''
 for i in range(1,6):
-    out += str(i)
-    print(out)
+    pattern += str(i)
+    print(pattern)
