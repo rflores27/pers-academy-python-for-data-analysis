@@ -9,7 +9,11 @@
         "workbench.startupEditor": "none",
         "jupyter.askForKernelRestart": false,
         "jupyter.jupyterServerType": "local",
-        "jupyter.enablePlotViewer": true
+        "jupyter.enablePlotViewer": true,
+        "jupyter.notebook.defaultKernel": "Python 3.11",
+        "filesToOpen": [
+  "file:///1. Introduction/Python_For_Data_Analysts_Course_Introduction.ipynb"
+]
       },
       "extensions": [
         "ms-toolsai.jupyter"
